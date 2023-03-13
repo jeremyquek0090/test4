@@ -1,0 +1,30 @@
+.book-languages {
+  display: inline-block;
+  margin: 0 20px;
+  vertical-align: top;
+}
+
+.book-languages-label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.book-languages ul {
+  list-style: none;
+  padding: 0;
+}
+
+.book-languages li {
+  display: inline-block;
+}
+
+.book-languages a {
+  display: block;
+  padding: 5px 10px;
+  color: #333;
+}
+
+.book-languages .active a {
+  color: #fff;
+  background-color: #428bca;
+}
