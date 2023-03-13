@@ -1,3 +1,6 @@
+{% if book.languages %}
+{% endblock %}
+
 # Languages
 
 -   [English](en/)
